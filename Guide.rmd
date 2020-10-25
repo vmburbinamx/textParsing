@@ -1,0 +1,13 @@
+---
+title: "Reading raw data"
+author: Víctor Urbina
+date: 25/10/2020
+output: html_document
+---
+
+Guide for document.
+
+0. "read_txt.py": this file shows the code to read a txt file. No any additional steps, just read the file.
+1. "read_txt.xlsm": this file includes a macro to read a txt file and insert the content into the excel file.
+2. "read_jsnoObject_from_TXT.py": this files shows the code to read a TXT file and convert txt pieces into JSON objects.
+3. "read_txt_context_manager": this file shows how to read a file using the WITH context manager.
