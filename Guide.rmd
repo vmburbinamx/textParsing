@@ -12,3 +12,6 @@ Guide for document.
 2. "read_jsnoObject_from_TXT.py": this files shows the code to read a TXT file and convert txt pieces into JSON objects.
 3. "read_txt_context_manager.py": this file shows how to read a file using the WITH context manager.
 4. "read_txt_into_NumpyArray.py": this file shows how to read a file and put the content into a numpy array.
+5. "read_csv.xlsm": this file shows how to read a CSV with VBA.
+6. "read_csv_pandas": this file shows how to read a CSV with pandas.
+7. "read_csv_xlwings": this files shows how to integrate python with excel to read a csv file.
